@@ -1,0 +1,11 @@
+{
+  "name": "comments-syntax",
+  "theme": "syntax",
+  "version": "0.0.0",
+  "description": "For when all you're really interested in are the comments.",
+  "repository": "https://github.com/atom/comments-syntax",
+  "license": "MIT",
+  "engines": {
+    "atom": ">=0.174.0 <2.0.0"
+  }
+}
