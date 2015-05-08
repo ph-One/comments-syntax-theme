@@ -2,4 +2,4 @@
 
 For when all you're really interested in are the comments.
 
-![](https://github.com/ph-One/comments-syntax-theme/blob/master/assets/comments-theme.png)
+![](https://raw.githubusercontent.com/ph-One/comments-syntax-theme/master/assets/comments-theme.png)
