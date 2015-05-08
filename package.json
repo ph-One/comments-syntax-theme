@@ -1,7 +1,7 @@
 {
   "name": "comments-syntax",
   "theme": "syntax",
-  "version": "1.1.0",
+  "version": "1.2.0",
   "description": "For when all you're really interested in are the comments.",
   "repository": "https://github.com/ph-One/comments-syntax-theme.git",
   "license": "MIT",
